@@ -27,4 +27,4 @@ But we are going to implement a Content based recommendation system using the sc
 Enjoy!!!
 
 
-Thanks - varunkuna
+Thanks - Haneesh Chowdary
